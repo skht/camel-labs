@@ -1,2 +1,2 @@
 
-This repository contains small maven projects with specific Camel route defined.
+This repository contains small Maven projects with specific Camel route definition.
